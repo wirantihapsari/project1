@@ -64,6 +64,10 @@ a {
   background-color: #3b5998;
 }
 
+.selanjutnya {
+ background-color: #3b5998;
+}
+
 .btn {
   padding: 12px 24px;
   color: white;
@@ -128,7 +132,7 @@ header {
 }
 
 
-.lesson-wrapper {
+.card-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
@@ -140,30 +144,32 @@ header {
   padding-top: 80px;
   padding-bottom: 50px;
   color: #5f5d60;
-}
+  }
 
 .heading h2 {
   font-weight: bold;
   font-family: 'Helvetica-Thin';
   font-size: 2.5em;
   line-height: 35pt;
+  
+   
 }
 
 
 
-.lesson {
+.card {
   float: left;
   width: 25%;
 }
 
-.lesson-icon {
+.card-icon {
   position: relative;
   
 }
 
 
 
-.lesson-icon p {
+.card-icon p {
   position: absolute;
   top: 44%;
   width: 100%;
