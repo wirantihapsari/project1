@@ -1,6 +1,6 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
-  .lesson {
+  .card {
     width: 50%;
     margin-bottom: 50px;
   }
