@@ -24,10 +24,10 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-image: url(https://github.com/wirantihapsari/project1/blob/master/foto/top.jpeg?raw=true);
   background-size: cover;
   color: white;
-  text-align: center;
+  text-align: left;
 }
 
 .top-wrapper h1 {
