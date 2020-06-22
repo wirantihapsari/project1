@@ -111,6 +111,7 @@ header {
   display: block;
   float: left;
   transition: all 0.5s;
+}
 
 .header-right {
   float: right;
