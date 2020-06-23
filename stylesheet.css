@@ -191,10 +191,12 @@ header {
 
 .lesson-icon {
   position: relative;
+  margin-bottom: 50px;
 }
 
 .lesson-icon img {
-  margin-bottom: 30px;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
   }
 
 .heading h3 {
