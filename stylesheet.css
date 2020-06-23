@@ -161,11 +161,7 @@ header {
   font-family: 'Helvetica-Thin';
   font-size: 2.5em;
   line-height: 35pt;
-  
-   
 }
-
-
 
 .card {
   float: left;
@@ -176,7 +172,6 @@ header {
   position: relative;
   
 }
-
 
 
 .card-icon p {
@@ -191,8 +186,20 @@ header {
   display: inline-block;
   margin-top: 15px;
   font-size: 15px;
-  color: #b3aeb5;
-  font-weight: bold;
+  color: black;
+}
+
+.lesson-icon {
+  position: relative;
+}
+
+.lesson-icon img {
+  margin-right: 20px;
+  }
+  
+.lesson-icon video {
+	margin-right: 20px;
+	
 }
 
 .heading h3 {
