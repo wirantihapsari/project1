@@ -189,14 +189,14 @@ header {
   color: black;
 }
 
-.lesson-icon {
+.galeri-icon {
   position: relative;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
-.lesson-icon img {
-  margin-bottom: 50px;
-  padding-bottom: 50px;
+.galeri-icon img {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
   }
 
 .heading h3 {
@@ -232,6 +232,25 @@ footer p {
 }
 
 footer {
+  background-color: red;
+  height: 300px;
   padding-top: 30px;
   padding-bottom: 20px;
+}
+.garis {
+  border-bottom: 1px solid lightblue;
+  margin-top: 15px;
+}
+.penutup li {
+  float: left;
+  padding-right: 15px;
+  font-size: 12px;
+  list-style: none;
+}
+.penutup2 li img{
+  width: 25px;
+}
+.penutup2 li{
+  float: right;
+  list-style: none;
 }
